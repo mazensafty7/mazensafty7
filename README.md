@@ -62,7 +62,7 @@
 **Key Responsibilities:**
 - Engaged in a comprehensive IBM Data Science grant program supported by the Ministry of Communications and Information Technology (DEPI).  
   
-- Gaining hands-on experience with industry-leading tools and technologies through IBM Data Science courses, focusing on data analysis, machine learning, data visualization, Data Cleaning, Data Exploration (EDA), Statistics , Web S, Python programming, and SQL.  
+- Gaining hands-on experience with industry-leading tools and technologies through IBM Data Science courses, focusing on data analysis, machine learning, data visualization, Data Cleaning, Data Exploration (EDA), Statistics , Web Scraping, Python programming, and SQL.  
   
 - Receiving extensive training in freelancing, soft skills development, and English proficiency to support professional growth.  
   
