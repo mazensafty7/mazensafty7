@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**] 
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1JKxu62Mf7dVROxgApMVtNvHpRdMDsr8j/view?usp=sharing)
 - 💬 **Ask me about**: Machine Learning , Data Science, Data Analytics  
 - 📫 **Reach me at**: [mazensafty2003@gmail.com](mailto:dev.abdullah.khaled@gmail.com) | **+201016203122**  
 - ⚡ **About me**: Getting insights from data and solve business problems   
