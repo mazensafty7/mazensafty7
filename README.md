@@ -79,7 +79,10 @@
 **August 2024 - September 2024** (1 Month)  
 
 **Key Responsibilities:**
-Apply real world machine learning and data science project
+- Developed and implemented machine learning models to predict housing prices using linear regression.
+- Analyzed and compared product performance in an A/B testing scenario using Bayesian analysis and Chi-Square tests, leading to actionable insights for marketing strategy improvement.
+- built and trained an LSTM model for predicting Microsoft stock prices, leveraging temporal dependencies in stock market data to enhance prediction accuracy.
+- Collaborated in data collection, preprocessing, and exploratory data analysis, delivering results that influenced decision-making and strategic planning.
 
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [ ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [ ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue)  ![Static Badge](https://img.shields.io/badge/Data%20Exploration%20(EDA)-red)   
@@ -91,7 +94,9 @@ Apply real world machine learning and data science project
 **August 2024 - September 2024** (1 Month)  
 
 **Key Responsibilities:**
-Apply real world machine learning and data science project
+- Completed a Titanic Survival Prediction project, employing various machine learning models and performance evaluation techniques to enhance predictive accuracy.
+- Worked on a CNN-based image classification project, distinguishing between cats and dogs, gaining experience in deep learning and neural network frameworks.
+- Developed skills in data preprocessing, model training, and fine-tuning, contributing to a collaborative and learning-focused environment.
 
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [ ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [ ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue)  ![Static Badge](https://img.shields.io/badge/Data%20Exploration%20(EDA)-red)   
@@ -103,7 +108,9 @@ Apply real world machine learning and data science project
 **August 2024 - September 2024** (1 Month)  
 
 **Key Responsibilities:**
-I gained hands-on experience in data analysis using Python, where I focused on data cleaning and visualization techniques to derive actionable insights. I also acquired valuable skills in Excel and Power BI, learning tips and best practices for effective data presentation and dashboard creation
+- Performed comprehensive data cleaning, preprocessing, and analysis to uncover patterns and trends within large datasets.
+- Utilized statistical techniques and data visualization tools to support decision-making processes and provide actionable insights.
+- Strengthened expertise in Python, Excel, and Power BI for effective data manipulation and presentation.
 
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [ ](https://en.wikipedia.org/wiki/Machine_learning) [](https://en.wikipedia.org/wiki/Statistics)  [ ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [](https://en.wikipedia.org/wiki/Feature_engineering)
 ![Static Badge](https://img.shields.io/badge/Excel-mint) ![Static Badge](https://img.shields.io/badge/Power%20BI-yellow)
