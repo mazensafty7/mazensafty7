@@ -35,6 +35,8 @@
   </a>
 </p>
 
+<img src="https://github.com/user-attachments/assets/8dedb472-877c-4f41-ad8f-e31b39719504" alt="Mazen Safty" width="200" />`
+
 <br>
 
 ### 🎓 Education
