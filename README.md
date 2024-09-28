@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<img src="https://github.com/user-attachments/assets/3af54ab2-3970-4461-a6e9-526c719e057a" alt="Your Image" style="border-radius: 50%; width: 150px; height: 150px;">
+<img src="https://github.com/user-attachments/assets/864a046f-44e8-4061-9e12-7aaa0708173c" alt="Your Image" style="border-radius: 50%; width: 150px; height: 150px;">
 
 <br>
 
