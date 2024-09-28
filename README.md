@@ -33,9 +33,8 @@
   <a href="https://www.credly.com/users/mazen-mohamed-elsayed-elsafty" target="_blank">
     <img align="center" src="https://www.pngrepo.com/png/331358/180/credly.png" alt="WhatsApp - Mazen Elsafty" height="40" width="40" />
   </a>
+  <img src="https://github.com/user-attachments/assets/864a046f-44e8-4061-9e12-7aaa0708173c" alt="Your Image" style="border-radius: 50%; width: 200px; height: 200px;">
 </p>
-
-<img src="https://github.com/user-attachments/assets/864a046f-44e8-4061-9e12-7aaa0708173c" alt="Your Image" style="border-radius: 50%; width: 200px; height: 200px;">
 
 <br>
 
