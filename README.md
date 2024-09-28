@@ -36,7 +36,9 @@
 </p>
 
 ---  
-  <img src="https://github.com/user-attachments/assets/864a046f-44e8-4061-9e12-7aaa0708173c" alt="Your Image" style="border-radius: 50%; width: 200px; height: 200px;">
+
+  <img src="https://github.com/user-attachments/assets/864a046f-44e8-4061-9e12-7aaa0708173c" alt="Your Image" style="border-radius: 50%; width: 300px; height: 300px;">
+  
 ---
 
 <br>
