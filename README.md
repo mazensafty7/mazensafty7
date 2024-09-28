@@ -41,7 +41,6 @@
   
 ---
 
-<br>
 
 ### 🎓 Education
 
@@ -188,7 +187,7 @@ I possess strong time management skills, allowing me to prioritize tasks effecti
 **Description:**  
 This project predicts house prices using data from the Ames Housing Dataset. A Decision Tree model was employed to predict house prices based on various features, and the optimal parameters were determined through grid search with cross-validation. The goal of this project was to build a robust model and understand the relationships
 
-[![White Minimalist Real Estate Instagram Post (1)](https://github.com/user-attachments/assets/03e101ae-30cb-4528-96d0-239ebd94b9f9)
+[![4](https://github.com/user-attachments/assets/cad8601e-ef7e-4f37-a733-3a3453868490)
 ](https://github.com/mazensafty7/Ames-House-Price-Prediction.git)  
 
 **Business Goal:**  
@@ -204,7 +203,7 @@ This project predicts house prices using data from the Ames Housing Dataset. A D
 **Description:**  
 This project employs a Decision Tree model to predict house prices in California using features such as location, housing age, population density, and median income. By analyzing real-world data, it uncovers insights into the factors influencing property values and provides accurate price estimates for various areas.
 
-[![White Minimalist Real Estate Instagram Post (2)](https://github.com/user-attachments/assets/e987654f-d546-45ee-aed5-26784b6bd0f7)
+[![5](https://github.com/user-attachments/assets/9132c66d-e455-4c19-8ac5-9668d985a07b)
 ](https://github.com/mazensafty7/California_House_Price_Prediction.git)  
 
 **Business Goal:**  
@@ -220,7 +219,7 @@ This project employs a Decision Tree model to predict house prices in California
 **Description:**  
 To develop a predictive model that estimates the survival chances of Titanic passengers based on various features such as age, gender, class, and embarkation point. This project aims to provide valuable insights into the factors influencing survival, offering a deeper understanding of the historical tragedy while showcasing the power of data analysis and machine learning in extracting meaningful patterns from complex datasets.
 
-[![White Minimalist Real Estate Instagram Post (3)](https://github.com/user-attachments/assets/6d8626ea-1104-4942-8156-7b13aab211d3)
+[![1](https://github.com/user-attachments/assets/a5cea331-4028-41d8-9233-35a80b1df19b)
 ](https://github.com/mazensafty7/Titanic-Prediction.git)  
 
 **Goal:**  
@@ -241,7 +240,7 @@ To develop a predictive model that estimates the survival chances of Titanic pas
 **Description:**  
 In this project, I performed a thorough analysis on a dataset related to movies, focusing on a variety of key factors such as budget, gross earnings, IMDb ratings, and more. The dataset included a range of attributes
 
-[![White Minimalist Real Estate Instagram Post (4)](https://github.com/user-attachments/assets/5e1a2bb2-b6d1-46bf-ab7f-c146da8f719c)
+[![2](https://github.com/user-attachments/assets/f921d12e-7f3b-4c78-b3b9-899c7b299bd2)
 ](https://github.com/mazensafty7/Movies-Analysis.git)  
 
 **Goal:**  
@@ -261,7 +260,7 @@ In this project, I performed a thorough analysis on a dataset related to movies,
 **Description:**  
 This project involves scraping real estate data from multiple listings in Chicago. The web scraper collects essential information about houses, including the number of bedrooms, bathrooms, square footage, addresses, and prices, from 135 pages. The resulting dataset contains 3,264 rows and 5 columns. The data is cleaned, prepared, and saved in a CSV
 
-[![White Minimalist Real Estate Instagram Post (5)](https://github.com/user-attachments/assets/b627d93c-e669-402c-bf79-f96c1d855528)
+[![3](https://github.com/user-attachments/assets/9884b701-7450-4f50-a295-2e51ba26f676)
 ](https://github.com/mazensafty7/Chicago-Real-Estate-Web-Scraping-Project.git)  
 
 **Goal:**  
