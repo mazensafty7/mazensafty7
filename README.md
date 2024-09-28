@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<img src="https://github.com/user-attachments/assets/8dedb472-877c-4f41-ad8f-e31b39719504" alt="Mazen Safty" width="200" />`
+<img src="your-image-url.jpg" alt="Your Image" style="border-radius: 50%; width: 150px; height: 150px;">
 
 <br>
 
