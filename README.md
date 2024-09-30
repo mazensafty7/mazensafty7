@@ -62,7 +62,7 @@
 
 ## 🧑‍💻 IBM Data Scientist , Soft Skills , English  
 **DEPI - Egyptian Ministry of Communication and Information Technology** · *Hybrid*  
-**April 2024 - September 2024** (6 Months)  
+**April 2024 - Present**  
 
 **Key Responsibilities:**
 - Engaged in a comprehensive IBM Data Science grant program supported by the Ministry of Communications and Information Technology (DEPI).  
