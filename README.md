@@ -198,6 +198,24 @@ This project predicts house prices using data from the Ames Housing Dataset. A D
 
 ---
 
+## 🏡 Charity Donor Predictor and Insights 
+
+**Description:**  
+The Charity Donor Predictor project predicts whether individuals earn more than $50K, helping charities identify potential donors. By using machine learning models to analyze demographic data, this tool enables organizations to target high-potential contributors, improving the efficiency of their fundraising efforts.
+
+[![Green Modern Charity Instagram Post](https://github.com/user-attachments/assets/3a58db91-52d2-4cbd-85d3-a4cc2e070c8b)
+](https://github.com/mazensafty7/Charity_Donor_Predictor.git) 
+
+**Business Goal:**  
+🎯 To develop a predictive model that accurately identifies individuals likely to earn more than $50K annually, enabling charities to target their outreach and engagement efforts effectively. By utilizing data-driven insights, the project aims to optimize fundraising strategies and enhance donor identification, ultimately increasing the potential for financial contributions to charitable initiatives.
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning-purple?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
+![Static Badge](https://img.shields.io/badge/AdaBoost-red)
+![Static Badge](https://img.shields.io/badge/SVM-green)
+
+---
+
 ## 🏡 California Houses Price Prediction 
 
 **Description:**  
