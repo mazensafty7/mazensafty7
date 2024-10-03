@@ -219,7 +219,7 @@ The Charity Donor Predictor project predicts whether individuals earn more than 
 ## 🏡 California Houses Price Prediction 
 
 **Description:**  
-This project employs a Decision Tree model to predict house prices in California using features such as location, housing age, population density, and median income. By analyzing real-world data, it uncovers insights into the factors influencing property values and provides accurate price estimates for various areas.
+This project employs an AdaBoost model to predict house prices in California using features such as location, housing age, population density, and median income. By analyzing real-world data, it uncovers insights into the factors influencing property values and provides accurate price estimates for various areas.
 
 [![Yellow and Black Real Estate Promotion Instagram Post](https://github.com/user-attachments/assets/e6e9a9d5-e7e6-497f-851e-5c39bcd2560c)
 ](https://github.com/mazensafty7/California_House_Price_Prediction.git)  
