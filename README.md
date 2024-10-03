@@ -221,7 +221,7 @@ The Charity Donor Predictor project predicts whether individuals earn more than 
 **Description:**  
 This project employs a Decision Tree model to predict house prices in California using features such as location, housing age, population density, and median income. By analyzing real-world data, it uncovers insights into the factors influencing property values and provides accurate price estimates for various areas.
 
-[![5](https://github.com/user-attachments/assets/9132c66d-e455-4c19-8ac5-9668d985a07b)
+[![Yellow and Black Real Estate Promotion Instagram Post](https://github.com/user-attachments/assets/e6e9a9d5-e7e6-497f-851e-5c39bcd2560c)
 ](https://github.com/mazensafty7/California_House_Price_Prediction.git)  
 
 **Business Goal:**  
@@ -229,6 +229,7 @@ This project employs a Decision Tree model to predict house prices in California
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning-purple?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
+![Static Badge](https://img.shields.io/badge/AdaBoost-red)
 
 ---
 
