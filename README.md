@@ -259,7 +259,7 @@ To develop a predictive model that estimates the survival chances of Titanic pas
 **Description:**  
 In this project, I performed a thorough analysis on a dataset related to movies, focusing on a variety of key factors such as budget, gross earnings, IMDb ratings, and more. The dataset included a range of attributes
 
-[![Modern Beige Black Cinematography Business Logo](https://github.com/user-attachments/assets/e365153e-9b36-461a-9d6f-65a4ed7d2ecd)
+[![Boost Black Full Photo 5 Movies Must You Watch Instagram Post](https://github.com/user-attachments/assets/6777ef38-4555-4a75-a9eb-9e5006b77d31)
 ](https://github.com/mazensafty7/Movies-Analysis.git)  
 
 **Goal:**  
