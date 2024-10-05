@@ -142,7 +142,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue)
 ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)]
 
 ### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
