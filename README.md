@@ -262,7 +262,7 @@ To develop a predictive model that estimates the survival chances of Titanic pas
 The SMS Spam Classifier project aims to build a machine learning model that classifies SMS messages as either "spam" or "ham" (not spam). The goal is to help users filter out unwanted spam messages and retain important communications.
 
 [![cc](https://github.com/user-attachments/assets/8bfd5c46-62e1-4987-9e48-4ebeda959a35)
-]([https://github.com/mazensafty7/Titanic-Prediction.git](https://github.com/mazensafty7/SMS_Spam_Classifier_using_Naive_Bayes.git))  
+](https://github.com/mazensafty7/SMS_Spam_Classifier_using_Naive_Bayes.git)  
 
 **Goal:**  
 🎯 The goal of this project is to build a machine learning model that can accurately classify SMS messages as spam or not spam. By leveraging the Naive Bayes algorithm, the model is trained to detect patterns in spam messages based on the frequency of certain keywords and features. The ultimate objective is to develop an efficient and reliable classifier that can help filter out unwanted messages, improving user experience and enhancing communication safety.
