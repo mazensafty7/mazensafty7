@@ -76,7 +76,7 @@
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [ ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [ ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white) ![Static Badge](https://img.shields.io/badge/Data%20Exploration%20(EDA)-red)   ![Static Badge](https://img.shields.io/badge/Data%20Analyst%20Mindset-cyan)
 ![Static Badge](https://img.shields.io/badge/Communication%20Skills-mint) ![Static Badge](https://img.shields.io/badge/Presentation%20Skills-mint) ![Static Badge](https://img.shields.io/badge/Freelancing%20Skills-mint) ![Static Badge](https://img.shields.io/badge/Self%20Branding%20Skills-mint) ![Static Badge](https://img.shields.io/badge/Problem%20Solving-mint) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red) ![Static Badge](https://img.shields.io/badge/Hierarchical%20Clustering-red)
 
 ---
 
@@ -154,7 +154,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue)
 ![Static Badge](https://img.shields.io/badge/Mathematics-purple)
 ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue)
-![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red)
+![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Hierarchical%20Clustering-red)
 
 
 
