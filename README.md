@@ -201,6 +201,7 @@ This project predicts house prices using data from the Ames Housing Dataset. A D
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -218,7 +219,7 @@ The Charity Donor Predictor project predicts whether individuals earn more than 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
 ![Static Badge](https://img.shields.io/badge/AdaBoost-red)
-![Static Badge](https://img.shields.io/badge/SVM-green) ![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red)
+![Static Badge](https://img.shields.io/badge/SVM-green) ![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -235,7 +236,7 @@ This project employs an AdaBoost model to predict house prices in California usi
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
-![Static Badge](https://img.shields.io/badge/AdaBoost-red)
+![Static Badge](https://img.shields.io/badge/AdaBoost-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -252,7 +253,7 @@ To develop a predictive model that estimates the survival chances of Titanic pas
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
-![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red)
+![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -268,7 +269,7 @@ The SMS Spam Classifier project aims to build a machine learning model that clas
 🎯 The goal of this project is to build a machine learning model that can accurately classify SMS messages as spam or not spam. By leveraging the Naive Bayes algorithm, the model is trained to detect patterns in spam messages based on the frequency of certain keywords and features. The ultimate objective is to develop an efficient and reliable classifier that can help filter out unwanted messages, improving user experience and enhancing communication safety.
 
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Naive%20Bayes-red) ![Static Badge](https://img.shields.io/badge/CountVectorizer-yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Naive%20Bayes-red) ![Static Badge](https://img.shields.io/badge/CountVectorizer-yellow) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 
 
