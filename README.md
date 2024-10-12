@@ -15,7 +15,7 @@
 - 💬 **Ask me about**: Machine Learning , Data Science, Data Analytics  
 - 📫 **Reach me at**: [mazensafty2003@gmail.com](mailto:dev.abdullah.khaled@gmail.com) | **+201016203122**  
 - ⚡ **About me**: Getting insights from data and solve business problems   
-- 📊 **Portfolio**: Check them out [**here**]([portfolio](https://mazensafty7.github.io/))
+- 📊 **Portfolio**: Check them out [**here**](https://mazensafty7.github.io/)
 
 ---
 
