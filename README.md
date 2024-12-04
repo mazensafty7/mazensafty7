@@ -316,6 +316,39 @@ This project involves scraping real estate data from multiple listings in Chicag
  
 ---
 
+## ⛏️ IMDb Top 250 Movies Scraper
+
+**Description:**  
+This project involves scraping the top 250 movies from the IMDb website using web scraping techniques. The extracted data includes movie titles, release years, IMDb ratings, and ranks. The project demonstrates proficiency in data extraction, processing, and saving the data in a structured format for analysis or further use.
+
+![imdb_cover](https://github.com/user-attachments/assets/f4af5c1f-baaa-4294-b1fd-6953deaad3ca)
+]([https://github.com/mazensafty7/Chicago-Real-Estate-Web-Scraping-Project.git](https://github.com/mazensafty7/IMDb_Movies_Scraping.git))  
+
+**Goal:**  
+🎯 To efficiently scrape and extract data from IMDb websites, providing a structured dataset for further analysis and insights.
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white) ![Static Badge](https://img.shields.io/badge/Beautiful%20Soup-blue)
+ 
+---
+
+## ⛏️ Yahoo Finance Table Scraper
+
+**Description:**  
+This project enables scraping any table from Yahoo Finance using Python. The scraper extracts financial data, such as stock prices, historical data, or performance metrics, and organizes it into a clean, structured format for analysis. It demonstrates proficiency in web scraping and data processing, ensuring accurate and flexible data collection.
+
+![yahoo_cover](https://github.com/user-attachments/assets/bd00fb26-5668-484f-94a4-2d61499f8b6e)
+]([[https://github.com/mazensafty7/Chicago-Real-Estate-Web-Scraping-Project.git](https://github.com/mazensafty7/IMDb_Movies_Scraping.git)](https://github.com/mazensafty7/Yahoo_Finance_Tables_Scraping.git))  
+
+**Goal:**  
+🎯 To efficiently scrape and extract data from Yahoo Finance, providing a structured dataset for further analysis and insights.
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white) ![Static Badge](https://img.shields.io/badge/Beautiful%20Soup-blue)
+ 
+---
+
+
 <br>
 
 # 🏅 Certifications
