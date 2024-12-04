@@ -322,7 +322,7 @@ This project involves scraping real estate data from multiple listings in Chicag
 This project involves scraping the top 250 movies from the IMDb website using web scraping techniques. The extracted data includes movie titles, release years, IMDb ratings, and ranks. The project demonstrates proficiency in data extraction, processing, and saving the data in a structured format for analysis or further use.
 
 ![imdb_cover](https://github.com/user-attachments/assets/f4af5c1f-baaa-4294-b1fd-6953deaad3ca)
-]([https://github.com/mazensafty7/Chicago-Real-Estate-Web-Scraping-Project.git](https://github.com/mazensafty7/IMDb_Movies_Scraping.git))  
+](https://github.com/mazensafty7/IMDb_Movies_Scraping.git)  
 
 **Goal:**  
 🎯 To efficiently scrape and extract data from IMDb websites, providing a structured dataset for further analysis and insights.
@@ -338,7 +338,7 @@ This project involves scraping the top 250 movies from the IMDb website using we
 This project enables scraping any table from Yahoo Finance using Python. The scraper extracts financial data, such as stock prices, historical data, or performance metrics, and organizes it into a clean, structured format for analysis. It demonstrates proficiency in web scraping and data processing, ensuring accurate and flexible data collection.
 
 ![yahoo_cover](https://github.com/user-attachments/assets/bd00fb26-5668-484f-94a4-2d61499f8b6e)
-]([[https://github.com/mazensafty7/Chicago-Real-Estate-Web-Scraping-Project.git](https://github.com/mazensafty7/IMDb_Movies_Scraping.git)](https://github.com/mazensafty7/Yahoo_Finance_Tables_Scraping.git))  
+](https://github.com/mazensafty7/Yahoo_Finance_Tables_Scraping.git)  
 
 **Goal:**  
 🎯 To efficiently scrape and extract data from Yahoo Finance, providing a structured dataset for further analysis and insights.
