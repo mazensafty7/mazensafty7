@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Mazen Elsafty</h1>
-<h3 align="center">Data Scientist | Supervised ML Engineer</h3>
+<h3 align="center">Data Scientist | Data Analyst | Supervised ML Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
