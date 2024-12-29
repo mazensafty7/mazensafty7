@@ -211,8 +211,7 @@ This project predicts house prices using data from the Ames Housing Dataset. A D
 Desktop app for predicting doctors' likelihood to prescribe medications using machine learning (AdaBoost). Developed as my graduation project under the Digital Egypt Pioneers Initiative (DEPI), supervised by the Egyptian Ministry of Communications and Information Technology. Includes data preprocessing, analysis, model tuning, and optimization.
 
 
-[![Blue Minimalist Health Logo](https://github.com/user-attachments/assets/15231236-1e0c-4190-ba57-507cd396af0d)
-)
+[![Blueand White Modern International Nurse Day Instagram Post](https://github.com/user-attachments/assets/db8ee826-5cec-48dd-90d4-b6cad38b459c)
 ](https://github.com/mazensafty7/Medical_Representative.git)  
 
 **Business Goal:**  
