@@ -205,6 +205,26 @@ This project predicts house prices using data from the Ames Housing Dataset. A D
 
 ---
 
+## 🏡 Medical Representative Prediction 
+
+**Description:**  
+Desktop app for predicting doctors' likelihood to prescribe medications using machine learning (AdaBoost). Developed as my graduation project under the Digital Egypt Pioneers Initiative (DEPI), supervised by the Egyptian Ministry of Communications and Information Technology. Includes data preprocessing, analysis, model tuning, and optimization.
+
+
+[![Blue Minimalist Health Logo](https://github.com/user-attachments/assets/15231236-1e0c-4190-ba57-507cd396af0d)
+)
+](https://github.com/mazensafty7/Medical_Representative.git)  
+
+**Business Goal:**  
+🎯 This project addresses the critical challenges faced by medical representatives by providing a data-driven approach to predict a doctor's likelihood of prescribing a specific medication.
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
+![Static Badge](https://img.shields.io/badge/AdaBoost-red)
+![Static Badge](https://img.shields.io/badge/SVM-green)![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
 ## 🏡 Charity Donor Predictor and Insights 
 
 **Description:**  
