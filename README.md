@@ -33,6 +33,10 @@
   <a href="https://www.credly.com/users/mazen-mohamed-elsayed-elsafty" target="_blank">
     <img align="center" src="https://www.pngrepo.com/png/331358/180/credly.png" alt="WhatsApp - Mazen Elsafty" height="40" width="40" />
   </a>
+  </a>
+  <a href="https://www.datacamp.com/portfolio/mazensafty2003" target="_blank">
+    <img align="center" src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" alt="WhatsApp - Mazen Elsafty" height="40" width="40" />
+  </a>
 </p>
 
 ---  
