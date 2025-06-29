@@ -259,23 +259,6 @@ This project employs an AdaBoost model to predict house prices in California usi
 
 ---
 
-## 🛳️ Titanic Predictions and Insights
-
-**Description:**  
-To develop a predictive model that estimates the survival chances of Titanic passengers based on various features such as age, gender, class, and embarkation point. This project aims to provide valuable insights into the factors influencing survival, offering a deeper understanding of the historical tragedy while showcasing the power of data analysis and machine learning in extracting meaningful patterns from complex datasets.
-
-[![1](https://github.com/user-attachments/assets/a5cea331-4028-41d8-9233-35a80b1df19b)
-](https://github.com/mazensafty7/Titanic-Prediction.git)  
-
-**Goal:**  
-🎯 To build a machine learning model that accurately predicts passenger survival on the Titanic using historical data, while extracting key insights into survival determinants. The project aims to demonstrate effective data preprocessing, feature engineering, and model evaluation, with a focus on improving prediction accuracy and understanding the real-world implications of the data.
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
-![Static Badge](https://img.shields.io/badge/Kmean%20Clustering-red) ![Static Badge](https://img.shields.io/badge/Elbow%20Method-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
----
-
 ## 🛳️ SMS Spam Classifier using Naive Bayes
 
 **Description:**  
