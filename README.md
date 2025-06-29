@@ -49,8 +49,8 @@
 #### 🏫 **Bachelor's Degree in Information Technology**
 
 - ![University Badge](https://img.shields.io/badge/EELU-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.7/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![GPA Badge](https://img.shields.io/badge/GPA-3.63/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20Oct%202025-yellow)
 
 ---
 
