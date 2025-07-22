@@ -100,21 +100,6 @@
 
 ---
 
-## 🧑‍💻  Data Scientist Intern  
-**Bharat Intern** · *Remote*  
-**August 2024 - September 2024** (1 Month)  
-
-**Key Responsibilities:**
-- Completed a Titanic Survival Prediction project, employing various machine learning models and performance evaluation techniques to enhance predictive accuracy.
-- Worked on a CNN-based image classification project, distinguishing between cats and dogs, gaining experience in deep learning and neural network frameworks.
-- Developed skills in data preprocessing, model training, and fine-tuning, contributing to a collaborative and learning-focused environment.
-
-[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [ ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [ ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
-![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue)  ![Static Badge](https://img.shields.io/badge/Data%20Exploration%20(EDA)-red) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
- 
- ---
-
 ## 🧑‍💻  Data Analyst Intern  
 **NeuronetiX** · *Remote*  
 **August 2024 - September 2024** (1 Month)  
@@ -261,45 +246,6 @@ This project employs an AdaBoost model to predict house prices in California usi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue) ![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Data%20Visualization-yellow?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png) ![Static Badge](https://img.shields.io/badge/Decision%20Tree-blue?link=file%3A%2F%2F%2FD%3A%2FDownloads%2FWhite%2520Minimalist%2520Real%2520Estate%2520Instagram%2520Post%2520(1).png)
 ![Static Badge](https://img.shields.io/badge/AdaBoost-red) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
-
-## 🛳️ SMS Spam Classifier using Naive Bayes
-
-**Description:**  
-The SMS Spam Classifier project aims to build a machine learning model that classifies SMS messages as either "spam" or "ham" (not spam). The goal is to help users filter out unwanted spam messages and retain important communications.
-
-[![cc](https://github.com/user-attachments/assets/8bfd5c46-62e1-4987-9e48-4ebeda959a35)
-](https://github.com/mazensafty7/SMS_Spam_Classifier_using_Naive_Bayes.git)  
-
-**Goal:**  
-🎯 The goal of this project is to build a machine learning model that can accurately classify SMS messages as spam or not spam. By leveraging the Naive Bayes algorithm, the model is trained to detect patterns in spam messages based on the frequency of certain keywords and features. The ultimate objective is to develop an efficient and reliable classifier that can help filter out unwanted messages, improving user experience and enhancing communication safety.
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue) ![Static Badge](https://img.shields.io/badge/Naive%20Bayes-red) ![Static Badge](https://img.shields.io/badge/CountVectorizer-yellow) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-
-
----
-
-# 📊 Data Analysis Projects
- 
- ---
-
-## 🎞️ Movies Analysis With Python
-
-**Description:**  
-In this project, I performed a thorough analysis on a dataset related to movies, focusing on a variety of key factors such as budget, gross earnings, IMDb ratings, and more. The dataset included a range of attributes
-
-[![Boost Black Full Photo 5 Movies Must You Watch Instagram Post](https://github.com/user-attachments/assets/6777ef38-4555-4a75-a9eb-9e5006b77d31)
-](https://github.com/mazensafty7/Movies-Analysis.git)  
-
-**Goal:**  
-🎯 To analyze and uncover key trends and patterns in the movie industry by examining factors like budget, gross earnings, IMDb ratings, and more. The project aims to provide actionable insights that can help stakeholders, such as filmmakers and producers.
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-blue)
-![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue)
- 
 ---
 
 # 📊 Web Scraping Projects
