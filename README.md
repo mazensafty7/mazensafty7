@@ -84,22 +84,6 @@
 
 ---
 
-## 🧑‍💻  Data Scientist Intern  
-**CodeAlpha** · *Remote*  
-**August 2024 - September 2024** (1 Month)  
-
-**Key Responsibilities:**
-- Developed and implemented machine learning models to predict housing prices using linear regression.
-- Analyzed and compared product performance in an A/B testing scenario using Bayesian analysis and Chi-Square tests, leading to actionable insights for marketing strategy improvement.
-- built and trained an LSTM model for predicting Microsoft stock prices, leveraging temporal dependencies in stock market data to enhance prediction accuracy.
-- Collaborated in data collection, preprocessing, and exploratory data analysis, delivering results that influenced decision-making and strategic planning.
-
-[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [ ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [ ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
-![Static Badge](https://img.shields.io/badge/Hyperparameter%20Tuning-yellow) ![Static Badge](https://img.shields.io/badge/Cross%20Validation-blue)  ![Static Badge](https://img.shields.io/badge/Data%20Exploration%20(EDA)-red) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning%20And%20Preprocessing-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
----
-
 ## 🧑‍💻  Data Analyst Intern  
 **NeuronetiX** · *Remote*  
 **August 2024 - September 2024** (1 Month)  
