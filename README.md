@@ -346,19 +346,6 @@ To efficiently scrape and extract data from Yahoo Finance, providing a structure
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  
-  <!-- Languages Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazensafty7&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-  
-  <!-- Stats Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=mazensafty7&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-  
   <!-- Streak Stats -->
   <div style="text-align: center; margin-bottom: 20px;">
     <h3>Current Streak</h3>
