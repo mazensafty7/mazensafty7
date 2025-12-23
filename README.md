@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/mazen-elsafty-417853291/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mazen Elsafty" height="40" width="40" />
   </a>
-  <a href="https://www.kaggle.com/mazensafty" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Mazen Elsafty" height="40" width="40" />
-  </a>
   <a href="https://www.credly.com/users/mazen-mohamed-elsayed-elsafty" target="_blank">
     <img align="center" src="https://www.pngrepo.com/png/331358/180/credly.png" alt="WhatsApp - Mazen Elsafty" height="40" width="40" />
   </a>
