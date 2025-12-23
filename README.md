@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mazen Elsafty</h1>
 <h3 align="center">Data Scientist & Analyst | Machine Learning Engineer | Oracle Certified Data Science Professional | Certified IT Specialist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mazensafty7&label=Profile%20views&color=0e75b6&style=flat" alt="mazensafty7" /> 
