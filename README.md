@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me:
--  **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1IzwNSQlSXbB7gOuY7M7wXW85DCZe5Fll/view?usp=sharing)
+-  **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1cw-8mcm4wqBTYIDuVQmwAEzsl0L8vdFI/view?usp=sharing)
 -  **Reach me at**: [mazensafty2003@gmail.com](mailto:mazensafty2003@gmail.com) 
 -  **About me**: Getting insights from data and solve business problems   
 -  **Portfolio**: Check them out [**here**](https://mazensafty7.github.io/)
