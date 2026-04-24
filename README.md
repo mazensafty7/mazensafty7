@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif)
 <h1 align="center">Hi 👋, I'm Mazen Elsafty</h1>
 <h3 align="center">Data Scientist | Data Engineering Trainee @ ITI</h3>
 
