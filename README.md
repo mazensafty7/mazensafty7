@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Elsafty</h1>
-<h3 align="center">Data Scientist | Data Engineering Trainee @ ITI</h3>
+<h3 align="center">Data Consultant @ Kiwilytics | ITI</h3>
 
 
 <p align="left"> 
@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me:
--  **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1cw-8mcm4wqBTYIDuVQmwAEzsl0L8vdFI/view?usp=sharing)
+-  **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1RTQOOB-3pdtTQbBPBeNcXTeJXnzNfzLz/view?usp=sharing)
 -  **Reach me at**: [mazensafty2003@gmail.com](mailto:mazensafty2003@gmail.com) 
 -  **About me**: Getting insights from data and solve business problems   
 -  **Portfolio**: Check them out [**here**](https://mazensafty7.github.io/)
